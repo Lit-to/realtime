@@ -19,3 +19,4 @@ Pythonのファイルで生成したloottableがあるため、Pythonと表示�
 
 
 協力:[なお](https://twitter.com/nao2002_)
+参考動画:https://youtu.be/rTCVKCxp84A
