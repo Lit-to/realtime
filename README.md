@@ -18,3 +18,4 @@ Pythonのファイルで生成したloottableがあるため、Pythonと表示�
 5. ``/data get storage realtime: second``で秒をそれぞれ2のタイミングの時間の取得ができます。
 
 
+協力:[なお](https://twitter.com/nao2002_)
